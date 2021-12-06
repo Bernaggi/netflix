@@ -221,6 +221,34 @@ h1 {
   color: var(--dark);
 }
 
+.modal{
+  background-color: #181818 !important;
+}
+
+.modal-footer{
+  background-color: #181818 !important;
+}
+
+.aprov{
+  color: #46d369;
+}
+
+.tag{
+  height: 28px;
+  margin: 0 10px;
+}
+
+.mod-head{
+  display: flex;
+  align-items: center;
+}
+
+.modal-close{
+  float: right;
+  margin: 10px;
+  color: #000000;
+  font-size: 24px;
+}
 
 /* FOOTER */
 footer {
