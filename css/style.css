@@ -50,6 +50,7 @@ h1 {
   background-color: var(--primary);
   width: 100%;
   margin-bottom: 0px;  
+  z-index: 99;
 }
 
 .netflixLogo {
@@ -223,6 +224,7 @@ h1 {
 
 .modal{
   background-color: #181818 !important;
+  max-height: 75% !important;
 }
 
 .modal-footer{
@@ -246,7 +248,7 @@ h1 {
 .modal-close{
   float: right;
   margin: 10px;
-  color: #000000;
+  color: #fff;
   font-size: 24px;
 }
 
